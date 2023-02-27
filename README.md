@@ -33,6 +33,7 @@ as png. You can read it with any image reader.
 
 The current segmentation is the following:
 
-![Segmentation](https://github.com/olmozavala/ds_health_hm_itk_filters/blob/0d1bcd725435fcc6dd56290234f679c06d8a70df/data/CurrentSeg.png?raw=true | width=300)
+<img src="https://github.com/olmozavala/ds_health_hm_itk_filters/blob/0d1bcd725435fcc6dd56290234f679c06d8a70df/data/CurrentSeg.png?raw=true"
+width="400px">
 
 Describe you approach and show the results in a single figure.
