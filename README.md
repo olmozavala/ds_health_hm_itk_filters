@@ -1,4 +1,4 @@
-#  ITK Filters and resampling and access to HiperGator
+#  ITK Filters and resampling
 The objectives of this homework are:
 1. Practice image filters.
 2. Practice image resampling using ITK
