@@ -1,8 +1,8 @@
 #  ITK Filters and resampling and access to HiperGator
 The objectives of this homework are:
-1. Practice image filters using ITK
+1. Practice image filters.
 2. Practice image resampling using ITK
-3. Practice accessing HiperGator data folder
+3. Practice use of morphological filters.
 
 All the answer should be submitted in a single jupyter notebook. 
 
